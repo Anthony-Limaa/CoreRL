@@ -1,0 +1,222 @@
+Episodio,Recursos_Restantes,Emergencias_Activas,Accion_Agente1,Accion_Agente2,Accion_Agente3,Recompensa_Global,Intervenciones_Logicas
+1,100,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+2,100,0,0,1,1,-11,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+3,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+4,90,0,0,1,1,-5,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+5,90,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada"
+6,90,0,1,1,0,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+7,90,0,0,0,0,-3,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+8,90,0,0,1,0,-7,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+1,90,0,0,0,1,-10,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+2,80,0,0,1,0,-1,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+1,100,0,1,0,0,-7,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+2,100,0,0,1,0,-7,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+1,90,0,1,0,0,8,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+2,80,0,0,1,0,-1,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+3,80,0,1,0,0,-7,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada"
+4,80,0,0,0,0,-3,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+5,80,0,1,0,1,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+1,90,0,0,1,0,-1,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+2,90,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+3,90,1,0,0,0,-30,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+4,80,0,1,1,1,0,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+5,80,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+1,100,0,1,0,1,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+2,100,0,0,1,0,-7,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+3,100,0,1,0,0,-7,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+4,100,0,0,0,1,-7,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+5,100,0,1,0,0,-7,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada"
+6,100,0,0,0,1,-7,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+7,100,0,0,0,0,-3,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+8,100,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+9,100,0,0,0,1,-7,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+10,100,0,1,0,0,-7,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+12,100,0,0,0,1,-7,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+13,100,1,0,0,0,-30,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+14,90,0,1,1,1,0,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+15,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+1,100,0,1,2,1,-11,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+2,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+3,100,0,1,0,1,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+4,90,0,0,1,0,-1,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+5,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+6,90,0,0,1,0,-7,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+7,80,0,0,0,1,-10,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+8,80,0,0,1,0,-7,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+10,80,0,1,0,1,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+11,80,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+12,80,0,1,2,1,-11,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes. | Ninguna - Decisión RL aceptada"
+13,80,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+14,80,0,0,0,0,-3,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+15,80,0,1,1,0,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+16,80,1,0,0,0,-30,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+17,70,0,1,1,1,0,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+18,70,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+19,70,0,0,2,0,-3,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+20,70,1,0,0,2,-21,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+21,60,0,1,2,1,4,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+22,60,0,0,0,0,-3,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+23,60,0,0,0,2,-3,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+24,60,1,2,0,0,-21,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+25,50,0,1,1,2,4,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R7: Agente disponible no puede ignorar una emergencia activa. | Ninguna - Decisión RL aceptada
+26,50,0,0,0,2,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+28,50,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+1,100,0,0,0,0,-3,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+2,100,0,1,2,2,-7,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes. | Ninguna - Decisión RL aceptada"
+1,100,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+2,100,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada"
+3,90,0,0,0,1,-10,"Ag1: Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+1,100,0,1,0,0,-7,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada"
+2,100,1,0,0,0,-30,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+3,90,0,1,1,1,0,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R7: Agente disponible no puede ignorar una emergencia activa."
+4,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+5,90,1,0,0,0,-30,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+6,80,0,1,1,1,0,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+7,80,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+8,80,0,0,0,1,-7,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+9,80,0,1,1,0,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+10,80,0,0,0,1,-7,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+11,80,0,1,1,0,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+12,80,0,0,0,1,-7,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+13,80,0,1,2,2,-7,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes."
+1,90,0,0,1,0,-1,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+2,90,0,0,0,1,-7,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+3,90,0,0,1,0,-7,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+4,90,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada"
+5,90,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada"
+6,90,0,1,1,1,-15,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+7,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+8,90,0,1,1,0,-11,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+9,90,0,0,0,0,-3,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+10,90,0,0,1,0,-7,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+11,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+13,90,0,0,1,1,-11,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | R8: Abundancia de recursos, forzando asignación en lugar de colaboración."
+14,90,0,1,0,0,-7,"Ag1: R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada"
+15,90,0,0,1,0,-7,"Ag1: Ninguna - Decisión RL aceptada | R8: Abundancia de recursos, forzando asignación en lugar de colaboración. | Ninguna - Decisión RL aceptada"
+16,90,0,1,2,2,-7,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes."
+17,90,1,0,0,0,-30,"Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | R3: No hay emergencias activas, se bloquea gasto de recursos."
+1,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+2,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+3,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+4,100,1,0,0,0,-30,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+5,90,0,1,1,1,0,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R7: Agente disponible no puede ignorar una emergencia activa. | R7: Agente disponible no puede ignorar una emergencia activa.
+6,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+7,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+8,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+9,90,1,0,0,0,-30,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+10,70,0,1,1,1,15,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R7: Agente disponible no puede ignorar una emergencia activa. | R7: Agente disponible no puede ignorar una emergencia activa.
+11,70,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+12,70,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+13,70,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+14,70,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+15,70,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+16,70,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+17,70,0,0,0,0,-3,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+18,70,1,0,0,0,-30,"Ag1: R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos. | R3: No hay emergencias activas, se bloquea gasto de recursos."
+19,60,0,1,1,1,0,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+1,100,1,0,0,0,-30,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+1,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+2,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+3,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+4,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+5,100,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+6,100,1,0,0,0,-30,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+7,90,0,1,1,1,0,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R7: Agente disponible no puede ignorar una emergencia activa. | R7: Agente disponible no puede ignorar una emergencia activa.
+8,90,0,1,2,2,-7,"Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes. | R5: Nivel crítico de emergencias, forzando colaboración entre agentes."
+9,90,0,0,0,0,-3,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+10,90,1,0,0,0,-30,Ag1: Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada | Ninguna - Decisión RL aceptada
+11,80,0,1,1,1,0,Ag1: R2: override_RL = True. Prioridad alta fuerza la acción. | R7: Agente disponible no puede ignorar una emergencia activa. | R7: Agente disponible no puede ignorar una emergencia activa.
+1,100,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+2,100,1,0,0,0,-30,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+3,90,0,1,1,1,0,Ag1: R6: Abundancia detectada. Despliegue forzado. | R6: Abundancia detectada. Despliegue forzado. | R6: Abundancia detectada. Despliegue forzado.
+4,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+5,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+6,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+7,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+8,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+9,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+10,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+11,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+12,90,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | R1: Sin crisis. Despliegue vetado. | R1: Sin crisis. Despliegue vetado.
+13,90,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | R1: Sin crisis. Despliegue vetado. | R1: Sin crisis. Despliegue vetado.
+14,80,0,1,1,1,0,Ag1: Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura) | Ninguna (Decisión Neuronal pura)
+1,100,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+2,100,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+3,100,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+4,100,1,0,0,0,-30,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+5,90,0,1,1,1,0,Ag1: R6: Abundancia detectada. Despliegue forzado. | Ag2: R6: Abundancia detectada. Despliegue forzado. | Ag3: R6: Abundancia detectada. Despliegue forzado.
+6,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+7,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+8,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+9,90,0,0,0,0,-3,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+10,90,1,0,0,0,-30,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+11,80,0,1,1,1,0,Ag1: R6: Abundancia detectada. Despliegue forzado. | Ag2: R6: Abundancia detectada. Despliegue forzado. | Ag3: R6: Abundancia detectada. Despliegue forzado.
+12,80,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+13,80,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+14,80,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+15,80,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+16,80,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+17,70,0,1,1,1,0,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+18,70,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+19,50,0,1,1,1,15,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+20,50,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+21,50,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+22,50,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+23,40,0,1,1,1,0,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+24,40,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+25,40,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+26,40,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+27,40,1,2,2,2,-3,Ag1: R3: Recursos críticos. Forzando colaboración. | Ag2: R3: Recursos críticos. Forzando colaboración. | Ag3: R3: Recursos críticos. Forzando colaboración.
+28,20,0,1,1,1,15,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+29,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+30,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+31,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+32,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+33,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+34,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+35,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+36,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+37,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+38,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+39,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+40,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+41,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+42,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+43,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+44,20,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+45,20,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+46,10,0,2,1,2,8,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: R8: Nodo menor restringido por escasez.
+47,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+48,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+49,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+50,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+51,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+52,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+53,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+54,10,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+55,10,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+56,10,1,2,2,2,-3,Ag1: R3: Recursos críticos. Forzando colaboración. | Ag2: R3: Recursos críticos. Forzando colaboración. | Ag3: R3: Recursos críticos. Forzando colaboración.
+57,10,1,2,2,2,-3,Ag1: R3: Recursos críticos. Forzando colaboración. | Ag2: R3: Recursos críticos. Forzando colaboración. | Ag3: R3: Recursos críticos. Forzando colaboración.
+58,10,1,2,2,2,-3,Ag1: R3: Recursos críticos. Forzando colaboración. | Ag2: R3: Recursos críticos. Forzando colaboración. | Ag3: R3: Recursos críticos. Forzando colaboración.
+59,10,1,2,2,2,-3,Ag1: R3: Recursos críticos. Forzando colaboración. | Ag2: R3: Recursos críticos. Forzando colaboración. | Ag3: R3: Recursos críticos. Forzando colaboración.
+60,10,2,2,2,2,-3,Ag1: R3: Recursos críticos. Forzando colaboración. | Ag2: R3: Recursos críticos. Forzando colaboración. | Ag3: R3: Recursos críticos. Forzando colaboración.
+1,100,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+2,100,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+3,100,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+4,100,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+5,80,0,1,1,1,15,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+6,80,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+7,80,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+8,70,0,1,1,1,0,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+9,70,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+10,70,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+11,70,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+12,60,0,1,1,1,0,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+13,60,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+14,60,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+15,60,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+16,60,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+17,60,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+18,60,1,0,0,0,-30,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
+19,50,0,1,1,1,0,Ag1: Ninguna (Decisión Neuronal pura) | Ag2: Ninguna (Decisión Neuronal pura) | Ag3: Ninguna (Decisión Neuronal pura)
+20,50,0,0,0,0,-3,Ag1: R1: Sin crisis. Despliegue vetado. | Ag2: R1: Sin crisis. Despliegue vetado. | Ag3: R1: Sin crisis. Despliegue vetado.
